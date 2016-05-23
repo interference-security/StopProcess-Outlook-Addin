@@ -1,0 +1,21 @@
+Public WithEvents myOlApp As Outlook.Application
+
+Public Sub Initialize_handler()
+    Set myOlApp = CreateObject("Outlook.Application")
+End Sub
+Private Sub myOlApp_ItemSend(ByVal Item As Object, Cancel As Boolean)
+    StopSend = 1
+    Set Service = GetObject("winmgmts:")
+    For Each Process In Service.InstancesOf("Win32_Process")
+        If Process.Name = "notepad.exe" Then
+            StopSend = 0
+        End If
+    Next
+    If StopSend = 1 Then
+        Cancel = True
+        InputBox ("Stoppped")
+    Else
+        Cancel = False
+        InputBox ("Not stopped")
+    End If
+End Sub
