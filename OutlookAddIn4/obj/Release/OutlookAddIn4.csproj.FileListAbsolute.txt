@@ -1,0 +1,15 @@
+c:\users\sc\documents\visual studio 2010\Projects\OutlookAddIn4\OutlookAddIn4\bin\Release\OutlookAddIn4.dll.config
+c:\users\sc\documents\visual studio 2010\Projects\OutlookAddIn4\OutlookAddIn4\bin\Release\OutlookAddIn4.dll
+c:\users\sc\documents\visual studio 2010\Projects\OutlookAddIn4\OutlookAddIn4\bin\Release\OutlookAddIn4.pdb
+c:\users\sc\documents\visual studio 2010\Projects\OutlookAddIn4\OutlookAddIn4\bin\Release\OutlookAddIn4.dll.manifest
+c:\users\sc\documents\visual studio 2010\Projects\OutlookAddIn4\OutlookAddIn4\bin\Release\OutlookAddIn4.vsto
+c:\users\sc\documents\visual studio 2010\Projects\OutlookAddIn4\OutlookAddIn4\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\sc\documents\visual studio 2010\Projects\OutlookAddIn4\OutlookAddIn4\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+c:\users\sc\documents\visual studio 2010\Projects\OutlookAddIn4\OutlookAddIn4\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\sc\documents\visual studio 2010\Projects\OutlookAddIn4\OutlookAddIn4\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+c:\users\sc\documents\visual studio 2010\Projects\OutlookAddIn4\OutlookAddIn4\obj\Release\Interop.WbemScripting.dll
+c:\users\sc\documents\visual studio 2010\Projects\OutlookAddIn4\OutlookAddIn4\obj\Release\OutlookAddIn4.csproj.ResolveComReference.cache
+c:\users\sc\documents\visual studio 2010\Projects\OutlookAddIn4\OutlookAddIn4\obj\Release\OutlookAddIn4.Properties.Resources.resources
+c:\users\sc\documents\visual studio 2010\Projects\OutlookAddIn4\OutlookAddIn4\obj\Release\OutlookAddIn4.csproj.GenerateResource.Cache
+c:\users\sc\documents\visual studio 2010\Projects\OutlookAddIn4\OutlookAddIn4\obj\Release\OutlookAddIn4.dll
+c:\users\sc\documents\visual studio 2010\Projects\OutlookAddIn4\OutlookAddIn4\obj\Release\OutlookAddIn4.pdb
